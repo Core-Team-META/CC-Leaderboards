@@ -7,7 +7,7 @@ A component that simplifies the process of adding a global leaderboard to a game
 [![Build Status](https://github.com/Core-Team-META/CC-Leaderboards/workflows/CI/badge.svg)](https://github.com/Core-Team-META/CC-Leaderboards/actions/workflows/ci.yml?query=workflow%3ACI%29)
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/Core-Team-META/CC-Leaderboards?style=plastic)
 
-![TitleCard](/Screenshots/TitleCard.jpg)
+![TitleCard](/Screenshots/TitleCard.png)
 
 </div>
 
